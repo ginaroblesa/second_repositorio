@@ -3,9 +3,13 @@
 mi segundo repositorio
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hice un cambio en la rama
 
 agregar rama develop
+=======
+*comandos de la rama feature first-change
+>>>>>>> c81588c93ac99b8d50f48326593ae0750dbf8057
 =======
 *comandos de la rama feature first-change
 >>>>>>> c81588c93ac99b8d50f48326593ae0750dbf8057
@@ -16,6 +20,7 @@ agregar rama develop
 
 ***git branch***
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ***git checkout develop***
 
@@ -28,6 +33,8 @@ agregar rama develop
 ***git push***
 
 =======
+=======
+>>>>>>> c81588c93ac99b8d50f48326593ae0750dbf8057
 ***git checkout feature/feature-change***
 
 ***git add .***
@@ -55,6 +62,9 @@ agregar rama develop
 ***git git push***
 
 ***git status***
+<<<<<<< HEAD
+>>>>>>> c81588c93ac99b8d50f48326593ae0750dbf8057
+=======
 >>>>>>> c81588c93ac99b8d50f48326593ae0750dbf8057
 
 
