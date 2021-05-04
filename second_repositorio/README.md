@@ -39,3 +39,12 @@ mi segundo repositorio
 ***git status***
 
 
+*ver diferencias entre ramas
+***git diff rama_1..rama_2***
+
+*hacer el  merge de la rama feature/first-change a la rama develop
+
+*cambio de rama 
+***git checkout develop***
+
+*agregue merge develop a main
