@@ -20,4 +20,13 @@ mi segundo repositorio
 
 ***git status***
 
+*segundo commit 
+***git add .***
+
+***git commit -m "agregue segungo commit"***
+
+***git git push***
+
+***git status***
+
 
